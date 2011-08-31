@@ -1,0 +1,9 @@
+--- 
+:benchmark: false
+:verbose: true
+:backtrace: false
+:update_sources: true
+gem: --no-ri --no-rdoc
+:sources: 
+- http://gems.devlan.nmci.navy.mil
+:bulk_threshold: 1000

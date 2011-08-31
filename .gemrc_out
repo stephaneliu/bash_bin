@@ -1,0 +1,9 @@
+--- 
+:benchmark: false
+:verbose: true
+:backtrace: false
+:update_sources: true
+gem: --no-ri --no-rdoc
+:sources: 
+- http://gemcutter.org
+:bulk_threshold: 1000

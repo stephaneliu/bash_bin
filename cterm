@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# custom terminal
+gnome-terminal --geometry=113X63+1400 & gnome-terminal --geometry=80x63+2600 
